@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DDA , Bresenham , Midpoint Algorithms For LineDrawing , Circle , Ellipse", "DDA , Bresenham , Midpoint Algorithms For LineDrawing , Circle , Ellipse.csproj", "{43A6ABA3-1E90-4968-8B31-A63D38C947BB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{43A6ABA3-1E90-4968-8B31-A63D38C947BB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{43A6ABA3-1E90-4968-8B31-A63D38C947BB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{43A6ABA3-1E90-4968-8B31-A63D38C947BB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{43A6ABA3-1E90-4968-8B31-A63D38C947BB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {058F5DD9-90C8-45C8-90A2-67B1D868C64F}
+	EndGlobalSection
+EndGlobal
